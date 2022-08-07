@@ -168,7 +168,7 @@
 
 <div align="center">
   <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=booshananamudara&" alt="booshananamudara" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=booshananamudara" alt="booshananamudara" />
 </p>
 
 </div>
